@@ -20,5 +20,12 @@ Q.8) Event Impact Analysis
 
 Q.9) Change in the index wrt Year & Company
 
-Live Interactive Dashboard:
-https://ai-financial-dashboard-946.nexttoken.app
+## Live Interactive Dashboard
+Experience the project as a web application:
+[Open App](https://ai-financial-dashboard-946.nexttoken.app)
+
+## Key Features
+- Interactive financial trend visualization
+- AI milestone impact analysis
+- correlation heatmap between R&D and revenue
+- company-level filtering
