@@ -19,3 +19,6 @@ Q.7) Expenditure vs Revenue year-by-year
 Q.8) Event Impact Analysis
 
 Q.9) Change in the index wrt Year & Company
+
+Live Interactive Dashboard:
+https://ai-financial-dashboard-946.nexttoken.app
